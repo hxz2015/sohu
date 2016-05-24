@@ -1,0 +1,36 @@
+
+错误链接：http://s.m.sohu.com/?v=2 
+错误时间：Tue May 24 21:03:49 2016 
+错误状态: HTTP Error 500: Internal Server Error 
+
+错误链接：javascrpt:void(0) 
+错误时间：Tue May 24 21:05:55 2016 
+错误状态: <urlopen error unknown url type: javascrpt> 
+
+错误链接：http://m.sohu.com/f/mMrmyaa/?_once_=000070_jrjs_02&wscrid=81924_1 
+错误时间：Tue May 24 21:06:44 2016 
+错误状态: <urlopen error [Errno 10061] > 
+
+错误链接：http://m.sohu.com/f/rAZzqaa/?_once_=000070_jrjs_01&wscrid=81934_1 
+错误时间：Tue May 24 21:10:01 2016 
+错误状态: <urlopen error [Errno 10061] > 
+
+错误链接：http://m.sohu.com/n/448288764/?_once_=000023_cmt_2news 
+错误时间：Tue May 24 21:17:12 2016 
+错误状态: timed out 
+
+错误链接：http://s.m.sohu.com/fin_web/jump.do?forward=StockIndex&code=cn_601611&v=2 
+错误时间：Tue May 24 21:24:05 2016 
+错误状态: HTTP Error 500: Internal Server Error 
+
+错误链接：http://m.sohu.com/n/451180592/?wscrid=89703_1 
+错误时间：Tue May 24 21:27:13 2016 
+错误状态: timed out 
+
+错误链接：http://live.m.sohu.com/c/3/ 
+错误时间：Tue May 24 21:28:46 2016 
+错误状态: <urlopen error [Errno 11004] getaddrinfo failed> 
+
+错误链接：http://m.sohu.com/f/rAZzqaa/?_once_=000070_jrjs_01&amp;wscrid=81934_1&mv=2 
+错误时间：Tue May 24 21:31:11 2016 
+错误状态: <urlopen error [Errno 10061] > 
